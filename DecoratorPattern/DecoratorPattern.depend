@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1552432348 source:/home/antiloope/Documents/programacion/patterns/DecoratorPattern/main.cpp
+	<iostream>
+	"Beverage.h"
+
+1552432549 /home/antiloope/Documents/programacion/patterns/DecoratorPattern/include/Beverage.h
+
+1552430869 source:/home/antiloope/Documents/programacion/patterns/DecoratorPattern/src/Beverage.cpp
+	"Beverage.h"
+
